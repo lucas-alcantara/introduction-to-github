@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to GitHub!
 
 _Get started using GitHub in less than an hour._
 
@@ -41,7 +41,7 @@ If you'd like to make a profile README, use the quickstart instructions below or
 4. If you created a new branch for your file, open and merge a pull request on your branch.
 5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/skills/.github/discussions).
 
-Check out these resources to learn more or get involved:
+Check out these resources to learn more or get involved!
 
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills course](https://github.com/skills).
